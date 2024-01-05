@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviyamohan2405" alt="kaviyamohan2405" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** in **GUVI**
 
-- 🤝 I’m interested in **Coding**
+- 🤝 I’m interested in **DATA ANALYST FIELD**
 
-- 💬 Ask me about **C,C++ programming language**
+- 💬 Ask me about **Python,Mysql,PowerBi,Advanced Excel**
 
 - 📫 How to reach me **kaviyamohan0501@gmail.com**
 
