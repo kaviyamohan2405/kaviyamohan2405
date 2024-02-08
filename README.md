@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaviya</h1>
-<h3 align="center">A Passionate in coding</h3>
+<h3 align="center">A Passionate in Data Analyst Field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviyamohan2405&label=Profile%20views&color=0e75b6&style=flat" alt="kaviyamohan2405" /> </p>
 
